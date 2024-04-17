@@ -1,4 +1,5 @@
-# Exploratory Data Analysis Project
+# How did giving birth during the Covid-19 pandemic impact mental health?
+# Exploratory Data Analysis & Visualisation project
 ## Overview
 In this exploratory data study, I wanted to find out whether giving birth during the Covid-19 pandemic had a detrimental impact on postnatal mental health, and what conditions made someone particularly vulnerable to developing postnatal depression during this time. The dataset included maternal mental health scores delivery date, measures for the health of the baby at birth and the delivery experience, and personal circumstances of the *mother*, such as household income and education level. The data was collected from people living in Canada, an affluent country with an accessible, functioning healthcare system. 
 
